@@ -1,0 +1,17 @@
+documents = [
+    "My name is Wasif Hussain. I completed my B.Tech in Computer Science and Engineering from Aliah University with an 8.64 CGPA.",
+    "I have experience as a Full Stack Developer, working with React, JavaScript, TypeScript, Next.js, Python, Flask, and SQL.",
+    "I joined TCS in April 2025 as a System Engineer.",
+    "I previously worked at Solvative as a Full Stack Developer Intern from July 2024 to November 2024 and continued as a full-time employee from December 2024.",
+    "My frontend skills include React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, AG Grid, and ECharts.",
+    "My backend skills include Python, Flask, REST APIs, SQLAlchemy, and MongoDB.",
+    "I have experience working with Generative AI, Large Language Models, Groq APIs, and Model Context Protocol (MCP) servers.",
+    "I developed an interview scheduling application using Next.js, JavaScript, and MongoDB, with scheduling and automated email and Google Meet link functionality.",
+    "I worked on a KPI maturity chat interface using React, TypeScript, and AI-related technologies.",
+    "My projects include AI-powered applications that use LLMs to answer questions and process information.",
+    "I am currently learning Retrieval-Augmented Generation (RAG), embeddings, cosine similarity, AI agents, and prompt engineering.",
+    "I am familiar with Git, GitHub, REST API development, and modern full-stack development practices.",
+    "My GitHub profile is https://github.com/Wasif0787.",
+    "My portfolio website is https://portfoliowasif.vercel.app/.",
+    "I am interested in Full Stack Developer and Generative AI Engineer roles.",
+]
